@@ -1,0 +1,1 @@
+draw_text(66, 7, global.pontos_peixes)

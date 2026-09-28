@@ -1,2 +1,4 @@
-
-show_debug_message (global.pontos)
+//if(y = -64 or 384)
+//{
+//	room_restart()	
+//}

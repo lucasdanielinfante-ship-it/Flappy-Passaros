@@ -1,1 +1,2 @@
-global.pontos = 0
+//criando a variavel de pontos
+global.pontos_peixes = 0
