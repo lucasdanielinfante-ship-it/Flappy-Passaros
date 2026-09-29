@@ -1,2 +1,2 @@
 //Setando a velocidade do coletavel
-x -= 3
+hspeed = -3

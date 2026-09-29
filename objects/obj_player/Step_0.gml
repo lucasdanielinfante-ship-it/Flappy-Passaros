@@ -1,4 +1,9 @@
-//if(y = -64 or 384)
-//{
-//	room_restart()	
-//}
+//Se perdeu
+if(global.perdeu)
+{
+	//O player é jogado pra traz
+	hspeed = -2
+	//o player roda no angulo
+	image_angle += 2
+}
+

@@ -1,2 +1,2 @@
-//Setando a velocidade do inimigo
-x -= 2
+//Setando a velocidade da arvore
+hspeed = -2
