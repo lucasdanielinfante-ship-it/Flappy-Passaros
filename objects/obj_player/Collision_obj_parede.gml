@@ -1,1 +1,1 @@
-room_restart()
+perde_jogo()

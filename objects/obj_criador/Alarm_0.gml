@@ -5,5 +5,5 @@ var pos_arvore = random_range (160, 256);
 instance_create_layer(640, pos_arvore,"instances", obj_arvore);
 
 //reiniciando o alarme aleatoriamente
-alarm[0] = random_range(5,10) *60;
+alarm[0] = random_range(2,4) *60;
 

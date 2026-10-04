@@ -16,5 +16,8 @@ function perde_jogo()
 
 	//Setando o alarme para rodar depois da animação de morte
 	alarm[5] = room_speed;
+	
+	//Zerando os pontos
+	global.pontos = 0
 
 }
