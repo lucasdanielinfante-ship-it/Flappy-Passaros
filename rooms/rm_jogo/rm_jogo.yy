@@ -1,17 +1,17 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
+  "%Name":"rm_jogo",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_52936C64","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_2AFC22CE","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_500759B4","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_35DC6040","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_36AC1BE5","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_5A933A68","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_52936C64","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_2AFC22CE","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_500759B4","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_35DC6040","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_36AC1BE5","path":"rooms/rm_jogo/rm_jogo.yy",},
+    {"name":"inst_5A933A68","path":"rooms/rm_jogo/rm_jogo.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -34,7 +34,7 @@
     {"$GMRBackgroundLayer":"","%Name":"bg_lua","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"bg_lua","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg_lua","path":"sprites/spr_bg_lua/spr_bg_lua.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":-1.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg1","path":"sprites/spr_bg1/spr_bg1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rm_jogo",
   "parent":{
     "name":"Flappy Passaros",
     "path":"Flappy Passaros.yyp",
