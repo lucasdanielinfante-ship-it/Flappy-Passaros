@@ -17,7 +17,26 @@ function perde_jogo()
 	//Setando o alarme para rodar depois da animação de morte
 	alarm[5] = room_speed;
 	
+	global.destino = rm_inicial
+	
+	layer_sequence_create("transicao", 0, 0, sq_transicao_1)
+	
 	//Zerando os pontos
 	global.pontos = 0
 
+}
+
+//criando função para mudar de room
+function muda_room()
+{
+	//avisando que a transição deve funcionar
+	global.transicao = true
+	//mandando a função ir prar a room da variavel global destino
+	room_goto(global.destino)
+}
+
+//criando a variavel de transição 
+function finaliza_transicao()
+{
+	global.transicao = false	
 }
